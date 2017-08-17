@@ -1,6 +1,6 @@
 # monitor1
 
-> A Vue.js project
+> A Vue.js project 在安居宝做的
 
 ## Build Setup
 
